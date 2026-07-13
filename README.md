@@ -1,12 +1,12 @@
 # Getting Started with the ASP.NET Core Scheduler Control
 
-A quick-start ASP.NET Core web application project that shows how to add a Scheduler control by installing the Syncfusion.EJ2.AspNet.Core package from NuGet. This project contains code to change the current view of the Scheduler, change the current date, add appointments, and customize the views.
+A quick-start [ASP.NET Core Scheduler](https://www.syncfusion.com/aspnet-core-ui-controls/scheduler?utm_source=github&utm_medium=listing&utm_campaign=aspnetcore-scheduler-github-samples) web application project that shows how to add a Scheduler control by installing the Syncfusion.EJ2.AspNet.Core package from NuGet. This project contains code to change the current view of the Scheduler, change the current date, add appointments, and customize the views.
 
 Refer to the getting started documentation for the Syncfusion ASP.NET Core Scheduler component: 
-https://ej2.syncfusion.com/aspnetcore/documentation/schedule/getting-started 
+https://ej2.syncfusion.com/aspnetcore/documentation/schedule/getting-started?utm_source=github&utm_medium=listing&utm_campaign=aspnetcore-scheduler-github-samples
 
 Check out this online example of exporting in the Syncfusion ASP.NET Core Scheduler component:
-https://ej2.syncfusion.com/aspnetcore/Schedule/Default#/material3 
+https://ej2.syncfusion.com/aspnetcore/schedule/overview#/material3?utm_source=github&utm_medium=listing&utm_campaign=aspnetcore-scheduler-github-samples
 
 ## Project pre-requisites
 
